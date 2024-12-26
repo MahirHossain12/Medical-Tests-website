@@ -1,4 +1,4 @@
-# Laboratory Website 
+# Medical Tests Website 
 https://labratory.netlify.app/
 
 Welcome to the Laboratory website repository! This project is a diagnostic center management platform developed using React.js, Node.js, MongoDB, and JWT authentication. It caters to both user and admin roles, providing functionalities tailored to each role's needs.
